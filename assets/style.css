@@ -70,6 +70,22 @@ body {
 #down-arrow a {
   color: white;
 }
+/*SOCIAL LINKS */
+.ul-social {
+  text-align: center;
+  padding-left: 0;
+}
+
+.li-social-links {
+  display: inline-block;
+  list-style: none;
+}
+
+.social {
+  font-size: 2em;
+  color: white;
+  padding: 20px;
+}
 
 /*CONTENT*/
 .container {
