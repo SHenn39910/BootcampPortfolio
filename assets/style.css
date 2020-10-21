@@ -205,9 +205,18 @@ h4 {
 }
 
 /*SKILLS*/
+
+h2 {
+  font-weight: 200;
+  font-size: 2rem;
+  color: #3b2785;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .ul-skills {
   text-align: center;
-  padding-left: 0;
+  padding-left: 180;
 }
 
 .li-skills {
