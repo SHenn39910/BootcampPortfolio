@@ -4,6 +4,11 @@ body {
   margin: 0;
 }
 
+
+* {
+  box-sizing: border-box
+}
+
 /*NAVBAR*/
 .navbar {
   background-color: #3b2785;
